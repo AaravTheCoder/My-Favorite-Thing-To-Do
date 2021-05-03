@@ -2,6 +2,7 @@ body {
     text-align: center;
     padding: 5px;
     background-color: #0d36d9;
+    margin: 10px;
 }
 
 #welcome {
@@ -51,4 +52,7 @@ body {
 }
 a{
     text-decoration: none;
+}
+img:hover{
+    transform: scale(0.9)
 }
