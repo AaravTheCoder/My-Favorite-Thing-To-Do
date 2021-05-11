@@ -1,7 +1,7 @@
 body {
     text-align: center;
     padding: 5px;
-    background-color: #0d36d9;
+    background-color: #ffffff;
     margin: 10px;
 }
 
@@ -12,7 +12,7 @@ body {
     top: 0;
     bottom: 0;
     opacity: 0.83;
-    background: linear-gradient(#4de810 0%, #0d36d9 100%);
+    background: linear-gradient(#8cffab 0%, #ffffff 100%);
     display: table;
     width: 100%;
     height: 100%;
@@ -24,11 +24,6 @@ body {
     width: 70px;
     margin: 8px auto;
 }
-
-#about {
-    background-color: #0d36d9;
-}
-
 .menu {
     list-style: none;
     font-family: fantasy;
@@ -39,6 +34,7 @@ body {
     position: fixed;
     cursor: pointer;
     z-index: 10;
+     color: aliceblue;
 }
 .links{
     padding-top: 5px;
